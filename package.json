@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-materials",
+  "version": "1.0.0",
+  "description": "Nodejs materials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthitechera/nodejs-materials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanthitechera/nodejs-materials/issues"
+  },
+  "homepage": "https://github.com/prasanthitechera/nodejs-materials#readme"
+}
